@@ -1,0 +1,76 @@
+INPUT TYPES
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Input Types Example</title>
+</head>
+<body>
+    <form>
+        <label for="hiddenInput">Hidden:</label>
+        <input type="hidden" id="hiddenInput" name="hiddenInput" value="Hidden Value">
+        
+        <label for="telInput">Tel:</label>
+        <input type="tel" id="telInput" name="telInput">
+        
+        <label for="emailInput">Email:</label>
+        <input type="email" id="emailInput" name="emailInput">
+        
+        <label for="numberInput">Number:</label>
+        <input type="number" id="numberInput" name="numberInput">
+        
+        <label for="rangeInput">Range:</label>
+        <input type="range" id="rangeInput" name="rangeInput">
+        
+        <label for="searchInput">Search:</label>
+        <input type="search" id="searchInput" name="searchInput">
+        
+        <label for="imageInput">Image:</label>
+        <input type="image" id="imageInput" src="image.jpg" alt="Submit">
+        
+        <label for="weekInput">Week:</label>
+        <input type="week" id="weekInput" name="weekInput">
+        
+        <label for="urlInput">URL:</label>
+        <input type="url" id="urlInput" name="urlInput">
+        
+        <label for="datetimeLocalInput">DateTime-Local:</label>
+        <input type="datetime-local" id="datetimeLocalInput" name="datetimeLocalInput">
+        
+        <label for="monthInput">Month:</label>
+        <input type="month" id="monthInput" name="monthInput">
+        
+        <label for="timeInput">Time:</label>
+        <input type="time" id="timeInput" name="timeInput">
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+
+META INFORMATION
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meta Information Example</title>
+    <meta name="author" content="John Doe">
+    <meta name="description" content="This is an example page">
+    <meta name="generator" content="My HTML Generator">
+    <meta name="keywords" content="HTML, CSS, JavaScript, web development">
+
+    <!-- Other head elements -->
+
+</head>
+<body>
+    <!-- Page content -->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
