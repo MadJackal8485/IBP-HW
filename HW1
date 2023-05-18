@@ -1,0 +1,10 @@
+1.SORU
+<a href="https://www.example.com">Link to another site</a>
+<a href="#section">Link to an anchor</a>
+<a href="page.html">Link to a page on the same site</a>
+2.SORU
+<a href="tel:+123456789">Link that dials a number</a>
+<a href="javascript:alert('Hello, world!')">Link that runs JavaScript</a>
+<a href="mailto:example@example.com">Link that opens email client</a>
+3.SORU
+<a href="https://www.example.com" target="_blank">Open the link in a new tab/window</a>
