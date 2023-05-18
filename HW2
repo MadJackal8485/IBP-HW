@@ -1,0 +1,44 @@
+IMAGES
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="image.jpg" alt="Example Image" width="300" height="200">
+</body>
+</html>
+
+
+IMAGE MAP
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Map Example</title>
+</head>
+<body>
+    <img src="map.jpg" alt="Map Image" usemap="#map">
+    <map name="map">
+        <area shape="circle" coords="100,100,50" href="location1.html" alt="Location 1">
+        <area shape="rect" coords="200,150,350,250" href="location2.html" alt="Location 2">
+    </map>
+</body>
+</html>
+
+
+BACKGROUND COLOR
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Background Color Example</title>
+    <style>
+        body {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Example Heading</h1>
+    <p>Example content.</p>
+</body>
+</html>
